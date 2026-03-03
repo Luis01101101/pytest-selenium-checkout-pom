@@ -3,4 +3,4 @@ End-to-end test automation project built with Pytest and Selenium WebDriver. The
 
 ## 🎬 Test Execution Demo
 
-<img src="[github.com/Luis01101101/pytest-selenium-checkout-pom/blob/main/demo]" width="800">
+![Demo](seleniumpy-project-checkout-pom-ezgif.com-video-to-gif-converter.gif)
